@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "depositref": "DREF1"
+    },
+    {
+      "id": 2,
+      "title": "hellojoe",
+      "depositref": "DREF1"
+    }
+  ],
+  "profile": {
+    "name": "typicode2"
+  }
+}
